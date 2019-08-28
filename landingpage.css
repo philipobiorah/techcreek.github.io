@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+header{
+   
+    /* background-image: url("img/macbookpro.jpg"); */
+    
+    background-image: url("https://images.pexels.com/photos/1038043/pexels-photo-1038043.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+header{
+    text-align: center;
+    color: white;
+    height: 400px;
+    padding-top: 10%;
+
+}
+
+.cards{
+    margin-top:20px;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    
+}
